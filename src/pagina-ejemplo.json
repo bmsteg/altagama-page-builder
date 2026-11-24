@@ -1,0 +1,235 @@
+{
+  "nombre": "Academia de estética (ejemplo)",
+  "tema": {
+    "primary": "#B08D2C",
+    "text": "#111111",
+    "muted": "#5b5b5b"
+  },
+  "bloques": [
+    {
+      "type": "hero",
+      "data": {
+        "mode": "slider"
+      },
+      "items": [
+        {
+          "title": "Lo que amás, puede ser tu trabajo",
+          "imageUrl": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-aprender.webp",
+          "subtitle": "Aprendé estética desde cero con práctica real y empezá a trabajar de lo que te gusta."
+        },
+        {
+          "title": "Formate con Nueva Dermo",
+          "imageUrl": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-inicio.webp",
+          "subtitle": "Cursos de pestañas, cejas, labios y estética facial, con certificado verificable."
+        },
+        {
+          "title": "Tu camino en la belleza empieza hoy",
+          "imageUrl": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-estetica.webp",
+          "subtitle": "Práctica, acompañamiento y los productos que necesitás para trabajar por tu cuenta."
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "data": {
+        "text": "Cursos cortos, prácticos y pensados para que puedas trabajar de esto lo antes posible.",
+        "title": "Formate en belleza y empezá a vivir de lo que te apasiona",
+        "eyebrow": "",
+        "iconKey": "graduation-cap",
+        "buttonUrl": "",
+        "buttonText": ""
+      },
+      "items": []
+    },
+    {
+      "type": "gallery",
+      "data": {
+        "variant": "carousel"
+      },
+      "items": [
+        {
+          "image": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-t-2.webp"
+        },
+        {
+          "image": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-t-3.webp"
+        },
+        {
+          "image": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-t-1004.webp"
+        },
+        {
+          "image": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-t-1069.webp"
+        },
+        {
+          "image": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-t-1194.webp"
+        }
+      ]
+    },
+    {
+      "type": "split_content",
+      "data": {
+        "text": "No hace falta que tengas experiencia. Con ganas y práctica podés convertir tu amor por la belleza en una fuente de ingresos.",
+        "image": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-practica.webp",
+        "title": "Emprendé con lo que te apasiona",
+        "iconKey": "heart-handshake",
+        "variant": "full_bleed",
+        "imagePosition": "right"
+      },
+      "items": []
+    },
+    {
+      "type": "content_section",
+      "data": {
+        "text": "No necesitás experiencia ni saber nada de belleza. Solo ganas de aprender algo que te dé independencia, ingresos y confianza.",
+        "title": "Tu nueva vida puede empezar hoy",
+        "eyebrow": "",
+        "iconKey": "heart-handshake",
+        "buttonUrl": "",
+        "buttonText": ""
+      },
+      "items": []
+    },
+    {
+      "type": "three_columns",
+      "data": {
+        "variant": "default"
+      },
+      "items": [
+        {
+          "text": "Cada técnica se practica paso a paso, con productos reales, desde la primera clase.",
+          "title": "Aprendé haciendo",
+          "iconKey": "graduation-cap"
+        },
+        {
+          "text": "Al terminar recibís tu certificado con un código QR para que cualquiera pueda verificar que es auténtico.",
+          "title": "Certificado con código QR",
+          "iconKey": "badge-check"
+        },
+        {
+          "text": "Te ayudamos durante y después del curso para que puedas empezar a trabajar con seguridad.",
+          "title": "Acompañamiento real",
+          "iconKey": "heart-handshake"
+        }
+      ]
+    },
+    {
+      "type": "split_content",
+      "data": {
+        "text": "Lifting, laminado de cejas, extensiones de pestañas, BB Lips y estética facial. Elegí la técnica que más te guste y empezá por ahí.",
+        "image": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-maxi-ensena.webp",
+        "title": "Tu curso, tu ritmo",
+        "variant": "split",
+        "imagePosition": "right"
+      },
+      "items": []
+    },
+    {
+      "type": "split_content",
+      "data": {
+        "text": "En la tienda tenés los kits y productos profesionales que usamos en las clases, con envío a todo el país.",
+        "image": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-kits.webp",
+        "title": "Todo lo que necesitás, en un solo lugar",
+        "variant": "split",
+        "imagePosition": "right"
+      },
+      "items": []
+    },
+    {
+      "type": "three_columns",
+      "data": {
+        "variant": "image_overlay"
+      },
+      "items": [
+        {
+          "text": "Te enseñamos a sacar buenas fotos de tus trabajos y a armar un perfil que atraiga clientas.",
+          "title": "Mostrá tus trabajos",
+          "iconKey": "camera",
+          "imageUrl": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-t-1093.webp"
+        },
+        {
+          "text": "Terminás el curso y tenés tu certificado listo para mostrar, imprimir y compartir.",
+          "title": "Certificado digital",
+          "iconKey": "scroll-text",
+          "imageUrl": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-certificado.webp"
+        },
+        {
+          "text": "Practicás sobre modelos reales para salir con confianza a atender a tus primeras clientas.",
+          "title": "Práctica con modelo",
+          "iconKey": "handshake",
+          "imageUrl": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-t-1074.webp"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "data": {
+        "text": "Atención personalizada y humana: te acompañamos en cada paso de tu formación.",
+        "title": "Estamos para ayudarte",
+        "iconKey": "heart-handshake"
+      },
+      "items": []
+    },
+    {
+      "type": "split_content",
+      "data": {
+        "text": "Te mostramos cómo montar tu rincón de trabajo en casa con bajo presupuesto y mucho estilo.",
+        "image": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-practica2.webp",
+        "title": "Armá tu espacio sin gastar de más",
+        "variant": "split",
+        "imagePosition": "right"
+      },
+      "items": []
+    },
+    {
+      "type": "split_content",
+      "data": {
+        "text": "Antes de empezar pueden surgir dudas. Escribinos con confianza y te respondemos.",
+        "image": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-final.webp",
+        "title": "Preguntá todo, estamos para ayudarte",
+        "variant": "split",
+        "imagePosition": "right"
+      },
+      "items": []
+    },
+    {
+      "type": "faq",
+      "data": {
+        "text": "Lo que todos quieren saber antes de empezar.",
+        "title": "Preguntas frecuentes"
+      },
+      "items": [
+        {
+          "answer": "No. Todos los cursos están pensados para empezar desde cero.",
+          "question": "¿Necesito experiencia previa?"
+        },
+        {
+          "answer": "Lifting y laminado de pestañas y cejas, extensiones de pestañas, BB Lips, micropigmentación de labios y estética facial.",
+          "question": "¿Qué técnicas se enseñan?"
+        },
+        {
+          "answer": "Sí. Al terminar recibís un certificado digital con código QR para verificar su autenticidad.",
+          "question": "¿Dan certificado?"
+        },
+        {
+          "answer": "Sí. Te enseñamos la técnica y también cómo mostrar tus trabajos y conseguir tus primeras clientas.",
+          "question": "¿Puedo empezar a trabajar después del curso?"
+        },
+        {
+          "answer": "Sí, enviamos a todo el país.",
+          "question": "¿La tienda hace envíos?"
+        }
+      ]
+    },
+    {
+      "type": "split_content",
+      "data": {
+        "text": "Lo que más nos gusta es ver a las alumnas que terminan el curso y empiezan a trabajar. Vos también podés.",
+        "image": "https://pub-56be0f1ba0e643e49f23dc71a941e684.r2.dev/uploads/nuevadermo/portada-certificado-diseno.webp",
+        "title": "Tu crecimiento es nuestro objetivo",
+        "overlay": "dark",
+        "variant": "full_bleed",
+        "imagePosition": "right"
+      },
+      "items": []
+    }
+  ]
+}
